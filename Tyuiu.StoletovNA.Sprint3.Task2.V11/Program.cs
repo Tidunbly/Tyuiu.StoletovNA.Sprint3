@@ -26,7 +26,7 @@ namespace Tyuiu.StoletovNA.Sprint3.Task2.V11
 
             double value = 0.5;
             int startValue = 1;
-            int stopValue = 10;
+            int stopValue = 15;
 
             Console.WriteLine("Значение переменной x = " + value);
             Console.WriteLine("Старт шага = " + startValue);
