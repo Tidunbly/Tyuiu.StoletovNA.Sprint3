@@ -11,7 +11,7 @@ namespace Tyuiu.StoletovNA.Sprint3.Task5.V11.Lib
             {
                 for (int j = startValue2; j <= stopValue2; j++)
                 {
-                    sum += Math.Sin(startValue2) + x / 2;
+                    sum += Math.Sin(j) + (x / 2);
                 }
             }
             return Math.Round(sum, 3);
