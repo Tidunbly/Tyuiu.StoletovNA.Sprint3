@@ -13,7 +13,7 @@ namespace Tyuiu.StoletovNA.Sprint3.Task6.V6.Lib
                 {
                     if (x % d == 0)
                     {
-                        sum += d;
+                        sum += 1;
                     }
                 }
             }

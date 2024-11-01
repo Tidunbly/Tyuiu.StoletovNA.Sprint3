@@ -14,7 +14,7 @@ namespace Tyuiu.StoletovNA.Sprint3.Task6.V6.Test
             
             int res = ds.GetSumTheDivisors(startValue, stopValue);
 
-            Assert.AreEqual(203, res);
+            Assert.AreEqual(11, res);
         }
     }
 }
